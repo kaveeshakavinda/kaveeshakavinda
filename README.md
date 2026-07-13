@@ -29,13 +29,9 @@ I build modern, responsive and user-friendly websites using HTML, CSS and JavaSc
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveeshakavinda&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshakavinda&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kaveeshakavinda
